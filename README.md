@@ -1,4 +1,7 @@
  Ruby on Rails チュートリアルのサンプルアプリケーション
+ 
+ ## Heroku
+ [Sample app](https://hidden-cliffs-41621.herokuapp.com/)
 
 これは、次の教材で作られたサンプルアプリケーションです。   
 [*Ruby on Rails チュートリアル*](https://railstutorial.jp/)
